@@ -1,0 +1,3 @@
+# .github
+
+Symbolistics.com
